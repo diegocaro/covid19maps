@@ -11,7 +11,7 @@ Los datos se han obtenido de las siguientes fuentes:
 
 
 
-1. [Mapas Urbanos.ipynb](Mapas Urbanos.ipynb): lectura y procesamiento de cartografía urbana del Gran Santiago.
+1. [Mapas Urbanos](./Mapas Urbanos.ipynb): lectura y procesamiento de cartografía urbana del Gran Santiago.
 
 ![Cartografía Urbana Gran Santiago](images/urban_stgo.png)
 
