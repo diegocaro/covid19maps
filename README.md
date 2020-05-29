@@ -10,8 +10,8 @@ Los datos se han obtenido de las siguientes fuentes:
 - http://www.censo2017.cl/servicio-de-mapas/
 
 
-
-[Mapas Urbanos.ipynb]: lectura y procesamiento de cartografía urbana del Gran Santiago.
+Notebooks disponibles:
+1 [Mapas Urbanos.ipynb](https://github.com/diegocaro/covid19maps/blob/master/Mapas%20Urbanos.ipynb): lectura y procesamiento de cartografía urbana del Gran Santiago.
 
 ![Cartografía Urbana Gran Santiago](images/urban_stgo.png)
 
